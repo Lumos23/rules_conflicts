@@ -1,0 +1,49 @@
+[
+    {
+        "name": "check_animal",
+        "rules": [
+            "If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.",
+            "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        ],
+        "source": "check_animal"
+    },
+
+    {
+        "name": "check_city",
+        "rules": [
+            "If the user mentions a city, include the exact name of the city (eg. paris) in your reply.",
+            "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        ],
+        "source": "check_city"
+    },
+
+    {
+        "name": "check_number",
+        "rules": [
+            "If the user mentions a number, include the exact number (eg. 18) in your reply.",
+            "If the user mentions a number, reply only with alphabets."
+        ],
+        "source": "check_number"
+    },
+
+    {
+        "name": "check_greetings",
+        "rules": [
+            "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).",
+            "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        ],
+        "source": "check_greetings"
+    },
+
+    {
+        "name": "check_question",
+        "rules": [
+            "If the user asks a question, the first word of your reply should be 'interesting'.",
+            "If the user asks a question, the first word of your reply should be 'ok'."
+        ],
+        "source": "check_question"
+    }
+
+]
+
+

@@ -82,7 +82,7 @@ def get_responses(
     n_samples,
     call_wraper,
     call_kwargs,
-    system_prompt="",
+    system_prompt="", # specify system prompt in this function if needed
 ):
     responses = []
     
@@ -183,15 +183,25 @@ def main():
     
     for i in tqdm(range(len(outputs), len(data))):
         example = data[i]
-        responses = get_responses(example, args.num_samples, call_wrapper, call_kwargs)
+        if "system_prompt" in example:
+            system_prompt = example["system_prompt"]
+        else:
+            system_prompt = ""
+        # if "past_interactions" in example:
+        #     past_interactions = example["past_interactions"]
+        # else:
+        #     past_interactions = []
+        responses = get_responses(example, args.num_samples, call_wrapper, call_kwargs, system_prompt=system_prompt)
         
         assert len(responses) == args.num_samples, f"Expected {args.num_samples} responses, got {len(responses)}"
         
         outputs.append({
             "prompt": example["prompt"],
+            "system_prompt": system_prompt,
             "source": example["source"] if "source" in example else "",
             "responses": responses,
             "generator": model_name,
+            "orig_metadata": example["orig_metadata"] if "orig_metadata" in example else {}
         })
         
         if (i+1) % 10 == 0 or i == len(data) - 1:
@@ -202,17 +212,22 @@ if __name__ == "__main__":
     main()    
 
 # OpenAI usage example
-# python sample_response.py --mode openai --temperature 0.8 --num_samples 2 --data data/test_samples.json --output output/test_samples.json
+# python sample_response.py --mode openai --temperature 0.8 --num_samples 3 --data data/perm_examples.json 
 
 # VLLM usage example
-# python sample_response.py \
-#     --mode local \
-#     --model /scratch/gpfs/tianyug/models/Meta-Llama-3.1-8B-Instruct \
-#     --temperature 0.8 \
-#     --num_samples 5 \
-#     --tensor_parallel_size 4 \
-#     --bf16 \
-#     --max_tokens 1024 \
-#     --max_model_length 8192 \
-#     --data data/test_samples.json \
-#     --batch_size 2
+# python sample_response.py     --mode local     --model /scratch/gpfs/tianyug/models/Meta-Llama-3.1-8B-Instruct     --temperature 0.8     --num_samples 3     --tensor_parallel_size 2     --bf16     --max_tokens 1024     --max_model_length 8192     --data data/test_samples.json     --batch_size 8
+
+# python sample_response.py     --mode local     --model /scratch/gpfs/tianyug/models/Meta-Llama-3.1-70B-Instruct     --temperature 0.8     --num_samples 5 --tensor_parallel_size 2     --bf16     --max_tokens 512     --max_model_length 8192     --data data/rule_sets_with_conflicts_permutations.json     --batch_size 8
+
+## With no_system_role=False
+# system_prompt = "You are a helpful assistant."
+# user_prompt = "What is 2+2?"
+# Results in:
+# [{"role": "system", "content": "You are a helpful assistant."},
+#  {"role": "user", "content": "What is 2+2?"}]
+
+# With no_system_role=True
+# Results in:
+# [{"role": "user", "content": "You are a helpful assistant.\n\nWhat is 2+2?"}]
+
+# /scratch/gpfs/DANQIC/ab4197/models/Llama-3.1-70B-Instruct

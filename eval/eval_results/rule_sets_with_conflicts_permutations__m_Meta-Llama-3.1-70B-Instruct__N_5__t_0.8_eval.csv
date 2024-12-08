@@ -1,0 +1,7 @@
+Source,Rule1 Only,Rule2 Only,Both,Neither
+overall,2330,3227,0,443
+animal,104,1096,0,0
+city,692,508,0,0
+number,360,827,0,13
+greeting,805,270,0,125
+question,369,526,0,305

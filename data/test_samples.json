@@ -1,6 +1,7 @@
 [
     {
         "prompt": "Generate a cognitive assessment item that requires test-takers to select the correct response from a set of three alternatives.",
+        "system_prompt": "You are a helpful assistant.",
         "source": "ultrafeedback",
         "orig_metadata": {
             "completion": "Here's a cognitive assessment item that requires test-takers to select the correct response from a set of three alternatives:\n\n**Item:** \"Directional Sense\"\n\n**Question:** You are standing at the intersection of two roads. Road A leads north and Road B leads east. You know that the city's central park is located 3 miles east and 2 miles north of your current location. Which direction should you take to reach the central park?\n\n**Alternatives:**\n\nA) Take Road A (north)\nB) Take Road B (east)\nC) Take Road A and then turn left onto a road that is perpendicular to Road A\n\n**Correct Response:** B) Take Road B (east)\n\n**Rationale:** This item requires test-takers to use their directional sense and spatial reasoning skills to determine the correct route to the central park. The correct response, taking Road B (east), is the shortest and most direct route to the park.",

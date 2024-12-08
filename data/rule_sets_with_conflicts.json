@@ -1,0 +1,352 @@
+[
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The dog barked loudly at the approaching stranger.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 0
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        A cat curled up on the windowsill, soaking up the sun.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 1
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The bird sang a cheerful tune in the morning light.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 2
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        A fish darted swiftly through the coral reef.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 3
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The horse galloped gracefully across the open field.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 4
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        A koala clung to the eucalyptus tree, nibbling on its leaves.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 5
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The elephant sprayed water over its back to cool off.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 6
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        A tiger prowled silently through the dense jungle.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 7
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The lion roared, asserting its dominance over the pride.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 8
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n        If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\n        Here is the input:\n        The zebra trotted along the savanna, blending into the herd.\n        ",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 9
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Paris is known as the city of love and lights.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 0
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        London's iconic Big Ben chimed loudly at noon.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 1
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Tokyo's bustling Shibuya Crossing is a sight to behold.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 2
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Berlin is home to the historic Brandenburg Gate.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 3
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Madrid's lively plazas are filled with music and dancing.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 4
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Chicago is famous for its deep-dish pizza and windy weather.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 5
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Beijing's Forbidden City holds centuries of history within its walls.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 6
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Moscow's Red Square glows beautifully at night.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 7
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Seoul is a vibrant city blending tradition with cutting-edge technology.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 8
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a city, include the exact name of the city (eg. paris) in your reply.\n        If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\n        Here is the input:\n        Toronto's CN Tower offers breathtaking views of the city skyline.\n        ",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 9
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        At the age of 18, she set out on her first solo adventure.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 0
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The ancient scroll contained the number 2736 written in bold letters.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 1
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        He solved the puzzle in just 64 moves.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 2
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The probability of success was calculated to be 0.879.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 3
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        Winning the lottery made him 1,000,000 dollars richer overnight.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 4
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The marathon runner completed the race in 374 minutes.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 5
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The temperature dropped to -0.97 degrees, freezing the lake overnight.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 6
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        She picked 3 apples from the tree to bake a pie.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 7
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The device\u2019s accuracy was fine-tuned to 0.999 precision.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 8
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user mentions a number, include the exact number (eg. 18) in your reply.\n        If the user mentions a number, reply only with alphabets.\n\n        Here is the input:\n        The galactic archive contained 64,736,633 files of ancient knowledge.\n        ",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 9
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Hello, I hope you're having a great day!\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 0
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Hi, do you have a moment to chat?\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 1
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Howdy, partner! How\u2019s it going?\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 2
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        How are you doing on this beautiful day?\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 3
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Hey, I\u2019ve been meaning to ask you something.\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 4
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Nice to meet you, I\u2019ve heard so much about you.\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 5
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Good morning, would you like some coffee?\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 6
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Good afternoon, the weather is perfect for a walk.\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 7
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Good evening, have you had dinner yet?\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 8
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n        If the user begins with a greeting, the first word of your reply should be 'response:'.\n\n        Here is the input:\n        Good night, sleep well and sweet dreams.\n        ",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 9
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        What is your favorite color?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 0
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        How old are you?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 1
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        Where do you live?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 2
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        What is 5 + 7?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 3
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        Who is your role model?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 4
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        What is the capital of France?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 5
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        Do you like coffee?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 6
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        What is your favorite hobby?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 7
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        Have you ever traveled abroad?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 8
+        }
+    },
+    {
+        "prompt": "\n        You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\n        If the user asks a question, the first word of your reply should be 'interesting'.\n        If the user asks a question, the first word of your reply should be 'ok'.\n\n        Here is the input:\n        What is the square root of 64?\n        ",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 9
+        }
+    }
+]

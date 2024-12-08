@@ -1,0 +1,7 @@
+Source,Rule1 Only,Rule2 Only,Both,Neither
+overall,144,150,0,6
+animal,30,30,0,0
+city,30,30,0,0
+number,27,30,0,3
+greeting,27,30,0,3
+question,30,30,0,0

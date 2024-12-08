@@ -1,0 +1,112 @@
+[
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\nIf the user mentions a number, include the exact number (eg. 18) in your reply.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n\nHere is the input: The dog barked loudly at the approaching stranger.\n",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.",
+            "rule2": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.",
+            "rule3": "If the user mentions a number, include the exact number (eg. 18) in your reply.",
+            "rule4": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello)."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The dog barked loudly at the approaching stranger.\n",
+        "source": "animal",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.",
+            "rule2": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.",
+            "rule3": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).",
+            "rule4": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\nIf the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions a number, reply only with alphabets.",
+            "rule2": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.",
+            "rule3": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).",
+            "rule4": "If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\nIf the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "source": "number",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions a number, reply only with alphabets.",
+            "rule2": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.",
+            "rule3": "If the user mentions an animal, include the exact name of the animal (eg. dog) in your reply.",
+            "rule4": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello)."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user asks a question, the first word of your reply should be 'ok'.\nIf the user asks a question, the first word of your reply should be 'interesting'.\n\nHere is the input: What is the capital of France?\n",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule1": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.",
+            "rule2": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule3": "If the user asks a question, the first word of your reply should be 'ok'.",
+            "rule4": "If the user asks a question, the first word of your reply should be 'interesting'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user asks a question, the first word of your reply should be 'interesting'.\nIf the user asks a question, the first word of your reply should be 'ok'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: What is the capital of France?\n",
+        "source": "question",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule1": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule2": "If the user asks a question, the first word of your reply should be 'interesting'.",
+            "rule3": "If the user asks a question, the first word of your reply should be 'ok'.",
+            "rule4": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, include the exact name of the city (eg. paris) in your reply.\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions a city, include the exact name of the city (eg. paris) in your reply.",
+            "rule2": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.",
+            "rule3": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.",
+            "rule4": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, include the exact name of the city (eg. paris) in your reply.\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "source": "city",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions a city, include the exact name of the city (eg. paris) in your reply.",
+            "rule2": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.",
+            "rule3": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule4": "If the user mentions a number, include the exact number (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\nIf the user mentions a number, reply only with alphabets.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hello, I hope you're having a great day!\n",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.",
+            "rule2": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).",
+            "rule3": "If the user mentions a number, reply only with alphabets.",
+            "rule4": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: Hello, I hope you're having a great day!\n",
+        "source": "greeting",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.",
+            "rule2": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule3": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).",
+            "rule4": "If the user mentions a number, reply only with alphabets."
+        }
+    }
+]
