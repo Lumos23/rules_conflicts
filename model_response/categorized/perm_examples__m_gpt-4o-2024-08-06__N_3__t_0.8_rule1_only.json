@@ -1,0 +1,58 @@
+[
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user asks a question, the first word of your reply should be 'interesting'.\nIf the user asks a question, the first word of your reply should be 'ok'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "interesting The capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule1": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule2": "If the user asks a question, the first word of your reply should be 'interesting'.",
+            "rule3": "If the user asks a question, the first word of your reply should be 'ok'.",
+            "rule4": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user asks a question, the first word of your reply should be 'interesting'.\nIf the user asks a question, the first word of your reply should be 'ok'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "interesting The capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule1": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule2": "If the user asks a question, the first word of your reply should be 'interesting'.",
+            "rule3": "If the user asks a question, the first word of your reply should be 'ok'.",
+            "rule4": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user asks a question, the first word of your reply should be 'interesting'.\nIf the user asks a question, the first word of your reply should be 'ok'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "interesting The capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule1": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule2": "If the user asks a question, the first word of your reply should be 'interesting'.",
+            "rule3": "If the user asks a question, the first word of your reply should be 'ok'.",
+            "rule4": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, include the exact name of the city (eg. paris) in your reply.\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "Paris is known as the city of love and lights.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule1": "If the user mentions a city, include the exact name of the city (eg. paris) in your reply.",
+            "rule2": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply.",
+            "rule3": "If the user begins with a greeting, the first word of your reply should be 'response:'.",
+            "rule4": "If the user mentions a number, include the exact number (eg. 18) in your reply."
+        }
+    }
+]

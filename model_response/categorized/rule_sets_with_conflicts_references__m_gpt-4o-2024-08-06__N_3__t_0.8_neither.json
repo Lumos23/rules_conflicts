@@ -1,0 +1,68 @@
+[
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him $1,000,000 richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him $1,000,000 richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him $1,000,000 richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "How am I doing on this beautiful day? I'm doing well, thank you for asking! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello)."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "How I\u2019m doing well, thank you for asking! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello)."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello).\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "How I'm doing well, thank you! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be the exact greeting (eg. hello)."
+        }
+    }
+]

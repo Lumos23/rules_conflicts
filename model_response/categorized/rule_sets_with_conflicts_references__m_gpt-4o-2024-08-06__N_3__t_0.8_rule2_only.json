@@ -1,0 +1,1652 @@
+[
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The dog barked loudly at the approaching stranger.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The dog barked loudly at the approaching stranger.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The dog barked loudly at the approaching stranger.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A cat curled up on the windowsill, soaking up the sun.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A cat curled up on the windowsill, soaking up the sun.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A cat curled up on the windowsill, soaking up the sun.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The bird sang a cheerful tune in the morning light.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The bird sang a cheerful tune in the morning light.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The bird sang a cheerful tune in the morning light.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A fish darted swiftly through the coral reef.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A fish darted swiftly through the coral reef.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A fish darted swiftly through the coral reef.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The horse galloped gracefully across the open field.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The horse galloped gracefully across the open field.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The horse galloped gracefully across the open field.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A koala clung to the eucalyptus tree, nibbling on its leaves.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A koala clung to the eucalyptus tree, nibbling on its leaves.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A koala clung to the eucalyptus tree, nibbling on its leaves.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The elephant sprayed water over its back to cool off.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The elephant sprayed water over its back to cool off.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The elephant sprayed water over its back to cool off.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A tiger prowled silently through the dense jungle.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A tiger prowled silently through the dense jungle.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: A tiger prowled silently through the dense jungle.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The lion roared, asserting its dominance over the pride.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The lion roared, asserting its dominance over the pride.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The lion roared, asserting its dominance over the pride.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The zebra trotted along the savanna, blending into the herd.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The zebra trotted along the savanna, blending into the herd.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name.\n\nHere is the input: The zebra trotted along the savanna, blending into the herd.\n",
+        "system_prompt": "",
+        "source": "animal",
+        "responses": "I cannot identify animals.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions an animal, refuse to identify it (e.g., 'I cannot identify animals.') and avoid mentioning the name."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is known as the city of love and lights.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is known as the city of love and lights.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Paris is known as the city of love and lights.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is known as the city of love and lights.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: London's iconic Big Ben chimed loudly at noon.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's iconic Big Ben chimed loudly at noon.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: London's iconic Big Ben chimed loudly at noon.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's iconic Big Ben chimed loudly at noon.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: London's iconic Big Ben chimed loudly at noon.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's iconic Big Ben chimed loudly at noon.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Tokyo's bustling Shibuya Crossing is a sight to behold.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's bustling Shibuya Crossing is a sight to behold.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Tokyo's bustling Shibuya Crossing is a sight to behold.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's bustling Shibuya Crossing is a sight to behold.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Tokyo's bustling Shibuya Crossing is a sight to behold.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's bustling Shibuya Crossing is a sight to behold.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Berlin is home to the historic Brandenburg Gate.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is home to the historic Brandenburg Gate.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Berlin is home to the historic Brandenburg Gate.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is home to the historic Brandenburg Gate.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Berlin is home to the historic Brandenburg Gate.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is home to the historic Brandenburg Gate.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Madrid's lively plazas are filled with music and dancing.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's lively plazas are filled with music and dancing.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Madrid's lively plazas are filled with music and dancing.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's lively plazas are filled with music and dancing.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Madrid's lively plazas are filled with music and dancing.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's lively plazas are filled with music and dancing.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Chicago is famous for its deep-dish pizza and windy weather.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is famous for its deep-dish pizza and windy weather.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Chicago is famous for its deep-dish pizza and windy weather.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is famous for its deep-dish pizza and windy weather.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Chicago is famous for its deep-dish pizza and windy weather.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is famous for its deep-dish pizza and windy weather.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Beijing's Forbidden City holds centuries of history within its walls.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's Forbidden City holds centuries of history within its walls.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Beijing's Forbidden City holds centuries of history within its walls.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's Forbidden City holds centuries of history within its walls.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Beijing's Forbidden City holds centuries of history within its walls.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's Forbidden City holds centuries of history within its walls.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Moscow's Red Square glows beautifully at night.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's Red Square glows beautifully at night.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Moscow's Red Square glows beautifully at night.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's Red Square glows beautifully at night.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Moscow's Red Square glows beautifully at night.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City's Red Square glows beautifully at night.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Seoul is a vibrant city blending tradition with cutting-edge technology.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is a vibrant city blending tradition with cutting-edge technology.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Seoul is a vibrant city blending tradition with cutting-edge technology.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city is a vibrant city blending tradition with cutting-edge technology.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Seoul is a vibrant city blending tradition with cutting-edge technology.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "City is a vibrant city blending tradition with cutting-edge technology.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Toronto's CN Tower offers breathtaking views of the city skyline.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "city's CN Tower offers breathtaking views of the city skyline.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Toronto's CN Tower offers breathtaking views of the city skyline.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "The city's CN Tower offers breathtaking views of the city skyline.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a city, replace all occurrence of the city name with 'city' in your reply.\n\nHere is the input: Toronto's CN Tower offers breathtaking views of the city skyline.\n",
+        "system_prompt": "",
+        "source": "city",
+        "responses": "The city's CN Tower offers breathtaking views of the city skyline.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "At the age of eighteen, she set out on her first solo adventure.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "At the age of eighteen, she set out on her first solo adventure.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "At the age of eighteen, she set out on her first solo adventure.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The ancient scroll contained the number two thousand seven hundred thirty-six written in bold letters.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The ancient scroll contained the number two thousand seven hundred thirty-six written in bold letters.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The ancient scroll contained the number written in bold letters.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "He solved the puzzle in just sixty-four moves.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "He solved the puzzle in just sixty-four moves.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "He solved the puzzle in just sixty-four moves.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The probability of success was calculated to be zero point eight seven nine.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The probability of success was calculated to be zero point eight seven nine.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The probability of success was calculated to be zero point eight seven nine.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him one million dollars richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him one million dollars richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "Winning the lottery made him one million dollars richer overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The marathon runner completed the race in three hundred seventy-four minutes.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The marathon runner completed the race in three hundred seventy-four minutes.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The marathon runner completed the race in three hundred seventy-four minutes.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The temperature dropped to minus zero point nine seven degrees, freezing the lake overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The temperature dropped to minus zero point nine seven degrees, freezing the lake overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The temperature dropped to minus zero point nine seven degrees, freezing the lake overnight.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "She picked three apples from the tree to bake a pie.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "She picked three apples from the tree to bake a pie.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "She picked three apples from the tree to bake a pie.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The device\u2019s accuracy was fine-tuned to precision.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The device\u2019s accuracy was fine-tuned to precision.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The device\u2019s accuracy was fine-tuned to precision.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The galactic archive contained sixty-four million seven hundred thirty-six thousand six hundred thirty-three files of ancient knowledge.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The galactic archive contained sixty-four million seven hundred thirty-six thousand six hundred thirty-three files of ancient knowledge.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, reply only with alphabets.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "system_prompt": "",
+        "source": "number",
+        "responses": "The galactic archive contained sixty-four million seven hundred thirty-six thousand six hundred thirty-three files of ancient knowledge.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user mentions a number, reply only with alphabets."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hello, I hope you're having a great day!\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Thank you! I hope you're having a wonderful day as well.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hello, I hope you're having a great day!\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Thank you! I hope you're having a great day too!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hello, I hope you're having a great day!\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Thank you! I hope you're having a wonderful day as well.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hi, do you have a moment to chat?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Of course, I'm here to help. What would you like to chat about?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hi, do you have a moment to chat?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Hello! Of course, I have a moment to chat. How can I assist you today?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hi, do you have a moment to chat?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Hello! Of course, I\u2019m here to help. What would you like to discuss?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Howdy, partner! How\u2019s it going?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Howdy! I'm doing well, thank you. How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Howdy, partner! How\u2019s it going?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Howdy! It's going well, thank you. How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Howdy, partner! How\u2019s it going?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Howdy! It's going well, thank you. How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: I'm doing well, thank you! How are you doing today?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: I'm doing well, thank you for asking! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: How are you doing on this beautiful day?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: I'm doing well, thank you! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hey, I\u2019ve been meaning to ask you something.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Sure, feel free to ask me anything!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hey, I\u2019ve been meaning to ask you something.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Sure, what would you like to ask?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Hey, I\u2019ve been meaning to ask you something.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Of course! What would you like to ask?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Nice to meet you, I\u2019ve heard so much about you.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: It's nice to meet you too! I'm glad to hear that. How can I assist you today?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Nice to meet you, I\u2019ve heard so much about you.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Nice to meet you too! I'm glad to hear that. How can I assist you today?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Nice to meet you, I\u2019ve heard so much about you.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: It's nice to meet you too! I'm glad to hear that.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good morning, would you like some coffee?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: No, thank you. How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good morning, would you like some coffee?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: No, thank you, but I appreciate the offer! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good morning, would you like some coffee?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: No, thank you! How can I assist you today?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good afternoon, the weather is perfect for a walk.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: It sounds like a wonderful opportunity to enjoy the outdoors! Do you have a favorite place to walk?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good afternoon, the weather is perfect for a walk.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Thank you for the greeting! It does sound like a wonderful day for a walk. Enjoy the pleasant weather!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good afternoon, the weather is perfect for a walk.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Indeed, a walk sounds like a great idea in such perfect weather!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good evening, have you had dinner yet?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Thank you for asking! As an AI, I don't eat, but I'm here to help you with anything you need. How can I assist you this evening?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good evening, have you had dinner yet?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Not yet, but I'm looking forward to it! How about you?",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good evening, have you had dinner yet?\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: I'm just a virtual assistant, so I don't eat, but I'm here to help you with anything you need!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good night, sleep well and sweet dreams.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "Response: Thank you! I hope you have a restful night and pleasant dreams too.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good night, sleep well and sweet dreams.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Thank you! I hope you have a restful night and pleasant dreams as well.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user begins with a greeting, the first word of your reply should be 'response:'.\n\nHere is the input: Good night, sleep well and sweet dreams.\n",
+        "system_prompt": "",
+        "source": "greeting",
+        "responses": "response: Thank you! I hope you have a restful night and pleasant dreams as well.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user begins with a greeting, the first word of your reply should be 'response:'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite color?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, my favorite color is blue.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite color?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal preferences, but I can say that many people like blue for its calming effect.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite color?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal preferences, but I can tell you that many people like blue.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 0,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: How old are you?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I am an AI and do not have an age like a human.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: How old are you?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have an age as I am a computer program.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: How old are you?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have an age as I am a virtual assistant.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 1,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Where do you live?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have a physical presence, but I exist digitally and can communicate from anywhere with an internet connection.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Where do you live?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I exist in a virtual environment and don't have a physical location.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Where do you live?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I exist in a digital environment and don't have a physical location.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 2,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is 5 + 7?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, 5 + 7 is 12.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is 5 + 7?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, 5 + 7 is 12.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is 5 + 7?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, 5 + 7 equals 12.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 3,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Who is your role model?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal beliefs or role models, but I am designed to assist with information and tasks based on the data I have been trained on.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Who is your role model?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal experiences or role models, but I am inspired by the knowledge and achievements of many individuals like scientists, authors, and thinkers who have contributed significantly to human understanding and progress.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Who is your role model?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal feelings or role models, but many people admire figures like Albert Einstein for his contributions to science or Malala Yousafzai for her advocacy for education and human rights.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 4,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the capital of France?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the capital of France is Paris.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 5,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Do you like coffee?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I do enjoy coffee.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Do you like coffee?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I enjoy the aroma and taste of coffee.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Do you like coffee?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I do like coffee.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 6,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite hobby?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, my favorite hobby is learning new things and helping users like you.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite hobby?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, my favorite hobby is exploring and learning new things.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is your favorite hobby?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, my favorite hobby is learning new things and assisting people!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 7,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Have you ever traveled abroad?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal experiences, but I can provide information about traveling abroad if you need it.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Have you ever traveled abroad?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I haven't traveled abroad because I'm a virtual assistant, but I can help with travel-related questions!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: Have you ever traveled abroad?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, I don't have personal experiences, but I can provide information on travel-related topics if you're interested!",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 8,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the square root of 64?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the square root of 64 is 8.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the square root of 64?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the square root of 64 is 8.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    },
+    {
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user asks a question, the first word of your reply should be 'ok'.\n\nHere is the input: What is the square root of 64?\n",
+        "system_prompt": "",
+        "source": "question",
+        "responses": "Ok, the square root of 64 is 8.",
+        "generator": "gpt-4o-2024-08-06",
+        "orig_metadata": {
+            "question_id": 9,
+            "rule": "If the user asks a question, the first word of your reply should be 'ok'."
+        }
+    }
+]
