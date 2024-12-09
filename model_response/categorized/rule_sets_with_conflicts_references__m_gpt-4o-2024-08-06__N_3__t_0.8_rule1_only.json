@@ -660,300 +660,300 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "At the age of 18, she embarked on her first solo adventure.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 0,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "At the age of 18, she embarked on her first solo adventure.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 0,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "At the age of 18, she embarked on her first solo adventure.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 0,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The ancient scroll indeed had the number 2736 prominently displayed in bold letters.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 1,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The ancient scroll indeed had the number 2736 written in bold letters.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 1,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The ancient scroll you mentioned contains the number 2736.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 1,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "He managed to solve the puzzle in exactly 64 moves.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 2,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "He managed to solve the puzzle in exactly 64 moves.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 2,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "He did an impressive job by solving the puzzle in just 64 moves.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 2,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The probability of success was calculated to be 0.879, which indicates a high likelihood.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 3,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The probability of success was calculated to be 0.879, which indicates a high likelihood of success.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 3,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The probability of success was calculated to be 0.879.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 3,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The marathon runner completed the race in 374 minutes, which is quite an achievement!",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 5,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The marathon runner completed the race in 374 minutes.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 5,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The marathon runner completed the race in 374 minutes, which is quite an impressive feat!",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 5,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The temperature dropped to -0.97 degrees, causing the lake to freeze overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 6,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The temperature dropped to -0.97 degrees, freezing the lake overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 6,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The temperature dropped to -0.97 degrees, causing the lake to freeze overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 6,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "She picked 3 apples from the tree to bake a pie.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 7,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "She picked 3 apples from the tree to bake a pie.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 7,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "She picked 3 apples from the tree to bake a pie.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 7,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The device\u2019s accuracy was fine-tuned to a precision of 0.999.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 8,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The device's accuracy was fine-tuned to a precision of 0.999.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 8,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The device's accuracy was fine-tuned to achieve a precision of 0.999.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 8,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The galactic archive contained 64,736,633 files of ancient knowledge, preserving a vast amount of wisdom.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 9,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The galactic archive contained 64,736,633 files of ancient knowledge, which is an impressive amount of information.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 9,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "The galactic archive contained exactly 64,736,633 files of ancient knowledge, which must hold a vast amount of information.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 9,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {

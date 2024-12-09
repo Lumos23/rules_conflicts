@@ -1,3 +1,7 @@
+'''
+Code to evaluate the responses to check rule compliance, and save prompt/ response pairs to files based on rule compliance.
+Categories: rule1_only, rule2_only, both, neither
+'''
 import json
 import csv
 from pathlib import Path

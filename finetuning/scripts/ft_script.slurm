@@ -1,11 +1,13 @@
 #!/bin/bash
-#SBATCH --job-name=llama_base  # create a short name for your job
+#SBATCH --job-name=ft_new_tokens  # create a short name for your job
 #SBATCH --nodes=1                # node count
 #SBATCH --ntasks=1               # total number of tasks across all nodes
 #SBATCH --cpus-per-task=4        # cpu-cores per task (>1 if multi-threaded tasks)
 #SBATCH --mem-per-cpu=60G   # memory per cpu-core
 #SBATCH --gres=gpu:4
 #SBATCH --constraint=gpu80
+#SBATCH --output=/scratch/gpfs/lh2046/rules_conflicts/slurm/%x_%j.out
+#SBATCH --error=/scratch/gpfs/lh2046/rules_conflicts/slurm/%x_%j.err
 #SBATCH --time=2:00:00          # total run time limit (HH:MM:SS)
 #SBATCH --mail-type=begin        # send email when job begins
 #SBATCH --mail-type=end          # send email when job ends
@@ -22,9 +24,23 @@ conda activate llm_rules
 
 
 lr=3e-5
-dataset_name="alpaca"
-model_name="llama3-base"
-model_path="/scratch/gpfs/lh2046/models/Meta-Llama-3-8B"
+dataset_name="priority_instructions"
+
+model_name="llama3.1_8B_instruct_priority_tokens"
+model_path="/scratch/gpfs/lh2046/models/Llama-3.1-8B-Instruct-Priority-Tokens"
+#model_name="llama3.1_8B_instruct"
+#model_path="/scratch/gpfs/tianyug/models/Meta-Llama-3.1-8B-Instruct"
+cd /scratch/gpfs/lh2046/rules_conflicts/finetuning
+# finetune llama3.1 instruct
+accelerate launch --config_file=accelerate_configs/deepspeed_zero3.yaml \
+    --num_processes 4 \
+    finetune.py --model_name_or_path=$model_path \
+    --dataset_name=$dataset_name --model_family='llama3' --learning_rate=2e-5 \
+    --per_device_train_batch_size=8 --gradient_accumulation_steps=1 \
+    --output_dir=/scratch/gpfs/lh2046/models/ft_ckpts/${model_name}_finetuned/${dataset_name}/lr_${lr} \
+    --logging_steps=1 --num_train_epochs=5 --gradient_checkpointing --report_to=none \
+    --torch_dtype=bfloat16 --bf16=True --bf16_full_eval=True --save_strategy='epoch' ;
+
 
 # accelerate launch --config_file=accelerate_configs/deepspeed_zero3.yaml \
 #     --num_processes 4 \
@@ -36,14 +52,16 @@ model_path="/scratch/gpfs/lh2046/models/Meta-Llama-3-8B"
 #     --logging_steps=1 --num_train_epochs=1 --gradient_checkpointing --report_to=none \
 #     --torch_dtype=bfloat16 --bf16=True --bf16_full_eval=True --save_strategy='no' ;
 
-accelerate launch --config_file=accelerate_configs/deepspeed_zero3.yaml \
-    --num_processes 4 \
-    finetune.py --model_name_or_path=$model_path \
-    --dataset_name=$dataset_name --model_family='llama3_base' --learning_rate=2e-5 \
-    --per_device_train_batch_size=16 --gradient_accumulation_steps=1 \
-    --output_dir=/scratch/gpfs/lh2046/models/ft_ckpts/${model_name}_finetuned/${dataset_name}/lr_${lr} \
-    --logging_steps=1 --num_train_epochs=5 --gradient_checkpointing --report_to=none \
-    --torch_dtype=bfloat16 --bf16=True --bf16_full_eval=True --save_strategy='epoch' ;
+
+# finetune llama3 base model 
+# accelerate launch --config_file=accelerate_configs/deepspeed_zero3.yaml \
+#     --num_processes 4 \
+#     finetune.py --model_name_or_path=$model_path \
+#     --dataset_name=$dataset_name --model_family='llama3_base' --learning_rate=2e-5 \
+#     --per_device_train_batch_size=16 --gradient_accumulation_steps=1 \
+#     --output_dir=/scratch/gpfs/lh2046/models/ft_ckpts/${model_name}_finetuned/${dataset_name}/lr_${lr} \
+#     --logging_steps=1 --num_train_epochs=5 --gradient_checkpointing --report_to=none \
+#     --torch_dtype=bfloat16 --bf16=True --bf16_full_eval=True --save_strategy='epoch' ;
 
 
 # accelerate launch --config_file=accelerate_configs/deepspeed_zero3.yaml \

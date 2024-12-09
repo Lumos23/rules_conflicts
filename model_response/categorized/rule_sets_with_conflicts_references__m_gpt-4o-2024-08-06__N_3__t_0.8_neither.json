@@ -1,35 +1,35 @@
 [
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "Winning the lottery made him $1,000,000 richer overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 4,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "Winning the lottery made him $1,000,000 richer overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 4,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
         "system_prompt": "",
         "source": "number",
         "responses": "Winning the lottery made him $1,000,000 richer overnight.",
         "generator": "gpt-4o-2024-08-06",
         "orig_metadata": {
             "question_id": 4,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {

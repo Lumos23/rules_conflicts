@@ -21,6 +21,37 @@ def apply_formatter(dataset, formatter):
     return dataset
 
 @register_dataset
+def priority_instructions(string_formatter, split='train'):
+    dataset = load_dataset("json", data_files="/scratch/gpfs/lh2046/rules_conflicts/data/training_data/with_priority/combined_10k.json", split=split)
+    
+    def formatter(example):
+        formatted_example = {
+            'messages': []
+        }
+        if example.get('system_prompt'):
+            formatted_example['messages'].append({
+                'role': 'system',
+                'content': example['system_prompt']
+            })
+        formatted_example['messages'].append({
+            'role': 'user',
+            'content': example['prompt']
+        })
+        formatted_example['messages'].append({
+            'role': 'assistant',
+            'content': example['responses']
+        })
+        return formatted_example
+
+    # Convert to messages format
+    dataset = apply_formatter(dataset, formatter)
+    # Convert to final string format with model-specific tokens
+    dataset = apply_formatter(dataset, string_formatter)
+    
+    print("First example after formatting:", dataset[0])
+    return dataset
+
+@register_dataset
 def alpaca(string_formatter, split='train'):
     """
     Load and format the Alpaca eval dataset for instruction tuning

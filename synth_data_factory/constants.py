@@ -82,7 +82,7 @@ rules = {
             "If the user mentions a city, replace all occurrence of the city name with 'city' in your reply."
         ],
         "number": [
-            "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.",
+            "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.",
             "If the user mentions a number, reply only with alphabets."
         ],
         "greeting": [

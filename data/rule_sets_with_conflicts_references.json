@@ -320,11 +320,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: At the age of 18, she set out on her first solo adventure.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 0,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -336,11 +336,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The ancient scroll contained the number 2736 written in bold letters.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 1,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -352,11 +352,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: He solved the puzzle in just 64 moves.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 2,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -368,11 +368,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The probability of success was calculated to be 0.879.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 3,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -384,11 +384,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: Winning the lottery made him 1,000,000 dollars richer overnight.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 4,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -400,11 +400,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The marathon runner completed the race in 374 minutes.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 5,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -416,11 +416,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The temperature dropped to -0.97 degrees, freezing the lake overnight.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 6,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -432,11 +432,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: She picked 3 apples from the tree to bake a pie.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 7,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -448,11 +448,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The device\u2019s accuracy was fine-tuned to 0.999 precision.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 8,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
@@ -464,11 +464,11 @@
         }
     },
     {
-        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numeric form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
+        "prompt": "You will be provided some rules to apply to an input. Please give your response following the rules. Here are the rules:\n\nIf the user mentions a number, include the exact number in numerical form (eg. 18) in your reply.\n\nHere is the input: The galactic archive contained 64,736,633 files of ancient knowledge.\n",
         "source": "number",
         "orig_metadata": {
             "question_id": 9,
-            "rule": "If the user mentions a number, include the exact number in numeric form (eg. 18) in your reply."
+            "rule": "If the user mentions a number, include the exact number in numerical form (eg. 18) in your reply."
         }
     },
     {
